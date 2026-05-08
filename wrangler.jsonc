@@ -18,4 +18,9 @@
 			"bucket_name": "my-emdash-media","preview_bucket_name": "my-emdash-media",
 		},
 	],
+"worker_loaders": [
+  {
+    "binding": "LOADER"
+  }
+]
 }
